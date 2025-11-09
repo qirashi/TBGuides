@@ -42,9 +42,9 @@
 Категории: Categories
 ```
 ```
-*файл* : name_android.zip
-*файл* : name_pc.zip
-*скриншоты* name_1.jpg | name_2.jpg | name_3.jpg
+Файл      : name_android.zip
+Файл      : name_pc.zip
+Скриншоты : name_1.jpg | name_2.jpg | name_3.jpg
 ```
 
 > [!TIP]
